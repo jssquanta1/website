@@ -58,7 +58,7 @@ function Navbar() {
           </button> */}
           <button>
           <Link to="/zealicon" className={styles.menu_links}>
-            Zealicon 2023
+            Zealicon 2024
           </Link>
           </button>
         </li>

@@ -11,8 +11,8 @@ export default function Zealicon() {
     <div className={styles.main}>
       <ZealiconNavbar />
       <ZeliconHero />
-      <ZealiconWinner />
-      <ZealiconCongratulation />
+      {/* <ZealiconWinner /> */}
+      {/* <ZealiconCongratulation /> */}
       {/* <ZeliconEvents/> */}
       {/* <Poll /> */}
       <ZealiconFooter />
