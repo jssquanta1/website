@@ -13,8 +13,8 @@ export default function Zealicon() {
       <ZeliconHero />
       {/* <ZealiconWinner /> */}
       {/* <ZealiconCongratulation /> */}
-      <ZeliconEvents/>
-      <Poll />
+      {/* <ZeliconEvents/> */}
+      {/* <Poll /> */}
       <ZealiconFooter />
     </div>
   );

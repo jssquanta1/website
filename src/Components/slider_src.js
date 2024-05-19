@@ -99,7 +99,7 @@ const events_src = [
 			'Quanta conducts various events throughout the year, here is glimpse of some events conducted by QUANTA',
 	},
 	{
-		img: '/assets/events/Mighty_Manoeuvre.png',
+		img: '/assets/events/Mighty.png',
 		name: 'Mighty Maneuver',
 		subtext: 'LFR Racing Event',
 		instagram: 'https://www.instagram.com/p/Ccx7RcWJqTV/',
