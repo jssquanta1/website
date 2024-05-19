@@ -91,15 +91,15 @@ const events_src = [
 			'Quanta conducts various events throughout the year, here is glimpse of some events conducted by QUANTA',
 	},
 	{
-		img: "/assets/events/tomorrow's tesla.png",
-		name: "Tomorrow's Tesla",
-		subtext: 'Pitch Your Billion-dollar Idea',
+		img: "/assets/events/Robo_Olympics.png",
+		name: "Robo Olympics",
+		subtext: 'Where Innovation Meets Competition',
 		instagram: 'https://www.instagram.com/p/Ccx7Ydsp6a0/',
 		description:
 			'Quanta conducts various events throughout the year, here is glimpse of some events conducted by QUANTA',
 	},
 	{
-		img: '/assets/events/mighty maneuver.png',
+		img: '/assets/events/Mighty_Manoeuvre.png',
 		name: 'Mighty Maneuver',
 		subtext: 'LFR Racing Event',
 		instagram: 'https://www.instagram.com/p/Ccx7RcWJqTV/',
@@ -123,8 +123,8 @@ const events_src = [
 			'Quanta conducts various events throughout the year, here is glimpse of some events conducted by QUANTA',
 	},
 	{
-		img: '/assets/events/electrohunt.png',
-		name: 'Electrohunt',
+		img: '/assets/events/Riddle_Craft.png',
+		name: 'Riddle Craft',
 		subtext: 'A Thrilling Quiz',
 		instagram: '#',
 		description:
