@@ -12,9 +12,9 @@ export default function Zealicon() {
       <ZealiconNavbar />
       <ZeliconHero />
       {/* <ZealiconWinner /> */}
-      <ZealiconCongratulation />
-      {/* <ZeliconEvents/> */}
-      {/* <Poll /> */}
+      {/* <ZealiconCongratulation /> */}
+      <ZeliconEvents/>
+      <Poll />
       <ZealiconFooter />
     </div>
   );

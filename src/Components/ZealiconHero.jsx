@@ -4,7 +4,7 @@ export default function ZeliconHero(){
         <div className={styles.left}>
           <h1>Zealicon</h1>
           <div className= {styles.year}>2024</div>
-          <p className= {styles.first}>At Quanta, we bring you four epic events at Zealicon: Robo Olympics, Mighty Maneuver, Tomorrow Tesla and Riddle Craft.</p>
+          <p className= {styles.first}>At Quanta, we bring you four epic events at Zealicon: Robo Olympics, Mighty Maneuver, Robo Rumble and Riddle Craft.</p>
           <p className={styles.second}>Get ready for some dhamaal and masti as we present to you these blockbuster events.</p>
         </div>
         <div className={styles.vid}>
